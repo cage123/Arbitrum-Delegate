@@ -6,6 +6,7 @@ https://www.python.org/downloads/release/python-3102/
 
 # Cost
 0.000125 ETH (0.26$) for delegate transaction gas
+
 Any count of $ARB token (for example 0.0000000000001)
 
 # To start
